@@ -9,6 +9,9 @@
   "installed_plugins": {
     "cordova-plugin-whitelist": {
       "PACKAGE_NAME": "br.com.linkallapp"
+    },
+    "cordova-plugin-googleplus": {
+      "PACKAGE_NAME": "br.com.linkallapp"
     }
   },
   "dependent_plugins": {}
